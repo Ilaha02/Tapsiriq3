@@ -1,0 +1,28 @@
+
+table {
+ width: 350px;
+ height: 350px;
+ border-collapse: collapse;
+ margin-right: 500px;
+ margin-left: 500px; 
+}
+
+.heading{
+text-align: center;
+color: purple;
+}
+
+.cedvel{
+border-right:  5px solid purple;	
+border-bottom:  5px solid purple;
+	width: 100px;
+}
+
+.cedvel1{
+border-bottom:  5px solid purple;
+	width: 100px;
+}
+
+.cedvel2{
+	border-right:  5px solid purple;	
+}
